@@ -6,16 +6,31 @@ body{
 h1{
     color: #2E2000;
     font-size: 70px;
-    font-style: Abril Fatface;
+    font-family: 'Abril Fatface';
+    letter-spacing: .5px;
+    font-style: normal;
 }
 
 h2{
-    font-style: Sen;
+    font-family: 'Sen', sans-serif;
     font-weight: bold;
     font-size: 30px;
 }
 
 h3{
-    font-style: Sen;
+    font-family: 'Sen', sans-serif;
     font-size: 16px;
+}
+
+.container{
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+    display: block
 }
