@@ -1,0 +1,21 @@
+body{
+    background-color: #FEFCEF;
+    color: #2E2000;
+}
+
+h1{
+    color: #2E2000;
+    font-size: 70px;
+    font-style: Abril Fatface;
+}
+
+h2{
+    font-style: Sen;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h3{
+    font-style: Sen;
+    font-size: 16px;
+}
