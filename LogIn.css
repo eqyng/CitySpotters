@@ -1,0 +1,65 @@
+body{
+    background-color: #FEFCEF;
+    color: #2E2000;
+}
+
+h1{
+    color: #2E2000;
+    font-size: 65px;
+    font-family: 'Abril Fatface';
+    text-align: center;
+    letter-spacing: .5px;
+    line-height: 1;
+    font-style: normal;
+    margin-top: 8%;
+    margin-bottom: 5%;
+}
+
+h2{
+    font-family: 'Avenir', sans-serif;
+    font-size: 20px;
+    line-height: 1;
+    margin-bottom: 2%;
+}
+
+h3{
+    color: #2E2000;
+    font-size: 30px;
+    font-family: 'Abril Fatface';
+    letter-spacing: .5px;
+    font-style: normal;
+}
+
+h4{
+    font-family: 'Avenir', sans-serif;
+    font-size: 16px;
+    margin-bottom: -4%;
+}
+
+h5{
+    font-family: 'Avenir', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+
+.body-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.QR-sign-in{
+    margin-left: 12%;
+    text-align: center;
+}
+
+.Email-sign-in{
+    margin-left: 10%;
+}
+
+.body-container .divider{
+    width: 2px;
+    height: 100%;
+    color: 000000;
+    margin: 5% 5%;
+}
